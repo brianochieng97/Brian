@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Brian ochieng</h1>
 <h3 align="center">A passionate Android developer</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/IAf4rGXKes4-vP0v-oHhqIQwvNCTlJRltN6QP2zHfQo/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YxL2U3/LzM0L2YxZTczNGY5/Y2FkZTg2ZmU3Mzdh/OWFhNDA0YWQ1Njc3/LmdpZg.gif">
