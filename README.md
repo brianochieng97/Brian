@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianochieng97&label=Profile%20views&color=0e75b6&style=flat" alt="brianochieng97" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_brianochieng" target="blank"><img src="https://img.shields.io/twitter/follow/_brianochieng?logo=twitter&style=for-the-badge" alt="_brianochieng" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_ochiengbrian" target="blank"><img src="https://img.shields.io/twitter/follow/_ochiengbrian?logo=twitter&style=for-the-badge" alt="_ochiengbrian" /></a> </p>
 
 - 📫 How to reach me **brianochieng9725@gmail.com**
 
